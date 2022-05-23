@@ -1,0 +1,12 @@
+mcstacker.net
+planetminecraft.com
+minecraft.tools
+minecraft.tools/en/book.php
+minecraft.tools/en/spawn.php
+minecraft.tools/en/loots.php
+minecraft.tools/en/potion.php
+minecraft.tools/en/armor.php
+minecraft.tools/en/firework.php
+minecraft.tools/en/banner.php
+minecraft.tools/en/shield.php
+curseforge.com/minecraft/mc-mods
